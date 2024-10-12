@@ -1,0 +1,6 @@
+name: TnTMob
+version: '${project.version}'
+main: net.kevarion.tntmob.TnTMob
+api-version: '1.19'
+authors: [Kevarion]
+description: A custom mob that spawns tnt
